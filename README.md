@@ -25,29 +25,29 @@
 ```
  apt update && apt upgrade -y
 ```
-**Install Git[If installed ignore]**
+    **Install Git[If installed ignore]**
 ```
  apt install git
 ```
-**Clone the repo**
+    **Clone the repo**
 ```
  git clone https://github.com/The-MoonTg-project/Moon-Userbot.git
 ```
-**Setup**
+    **Setup**
 ```
  cd Moon-Userbot/ && bash install.sh
 ```
 <h2> Termux (use <a href='https://f-droid.org/en/packages/com.termux/'>f-droid</a> version)</h2>
 **Full Installation instruction <a href='https://telegra.ph/Moon-Userbot-Installation---Termux-02-09'>Given here</a>**
 
-**NOTE: If you choose MongoDB for your cloud then you need to setup mongo_db_url**
+    **NOTE: If you choose MongoDB for your cloud then you need to setup mongo_db_url**
 
 **Recommend: _sqlite_**
 
 ### Contributions 
 _Contributions of any type are welcome like modules etc. Feel free to do pull-request's with your changes, we'll review it within next 24hours_
 
-**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request) 
+    **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request) 
 
 <h2>Support</h2> 
  <li><a href='https://t.me/moonuserbot'>Channel</a> with latest news on the official telegram [en]</li> 
@@ -61,8 +61,7 @@ _Contributions of any type are welcome like modules etc. Feel free to do pull-re
  <nav> 
  <li><a href='https://github.com/Dragon-Userbot/Dragon-Userbot'>Dragon-Userbot</a></li> 
  
- <li><a href='https://github.com/AbhiTheModder'>AbhiTheModder</a></li>
- </nav> 
+    - [AbhiTheModder](https://github.com/AbhiTheModder)</nav> 
  
  <h4>Written on <a href='https://github.com/pyrogram/pyrogram'>Pyrogram❤️</a> and <a href='https://github.com/MarshalX/tgcalls/tree/main/pytgcalls'>pytgcalls❤️</a></h4>
  
